@@ -1,0 +1,4 @@
+apivVersion: v1
+kind: Namespace
+metadata:
+  name: xrd
