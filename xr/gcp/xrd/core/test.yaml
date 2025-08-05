@@ -1,4 +1,4 @@
-apivVersion: v1
+apiVersion: v1
 kind: Namespace
 metadata:
-  name: xrd
+  name: gcp-xrd
